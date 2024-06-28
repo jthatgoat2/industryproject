@@ -1,0 +1,19 @@
+.logo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  //   &__points {
+
+  //   }
+  &__image {
+    max-width: 14rem;
+  }
+  //   &__streak {
+  //   }
+}
+.hero {
+  &__welcome {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+}

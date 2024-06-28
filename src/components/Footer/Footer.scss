@@ -1,0 +1,31 @@
+.footer {
+  background-color: white;
+  display: flex;
+  position: fixed;
+  bottom: 0;
+  justify-content: space-around;
+  width: 100vw;
+
+  &__home {
+    display: flex;
+    color: black;
+  }
+
+  &__learning {
+    display: flex;
+    color: black;
+  }
+
+  &__ranking {
+    display: flex;
+    color: black;
+  }
+  &__badges {
+    display: flex;
+    color: black;
+  }
+  &__profile {
+    display: flex;
+    color: black;
+  }
+}
